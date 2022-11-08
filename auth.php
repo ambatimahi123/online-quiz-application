@@ -7,6 +7,7 @@
     else
     {
         $name = $_SESSION['login_name'];
+        $nmae = $_SESSION['password'];
     }
 
     ?>
